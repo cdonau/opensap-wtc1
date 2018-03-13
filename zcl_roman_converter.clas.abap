@@ -50,7 +50,7 @@ CLASS ZCL_ROMAN_CONVERTER IMPLEMENTATION.
             WHEN 'M' THEN 1000
             WHEN 'D' THEN 500
             WHEN 'C' THEN 100
-            WHEN 'L' THEN 50
+            WHEN 'L' THEN 40
             WHEN 'X' THEN 10
             WHEN 'V' THEN 5
             WHEN 'I' THEN 1
